@@ -35,7 +35,7 @@ To ensure optimal performance, focus on connection stability and resolution matc
 
 ## Supported Integrations
 
-- **Host Platforms:** macOS, iOS, iPadOS, Android, Android Tablet
+- **Host Platforms:** Windowsma, cOS, iOS, iPadOS, Android, Android Tablet
 - **Connection Types:** USB-C, Lightning, Wi-Fi, Peer-to-Peer Networking
 - **Input Methods:** Touch, Apple Pencil, Stylus, Keyboard, Mouse
 
