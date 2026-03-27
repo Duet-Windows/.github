@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Access the Extended Monitor Hub](https://img.shields.io/badge/_ACCESS_THE_EXTENDED_MONITOR_HUB-Duet_Display_Ready-blue?style=for-the-badge)](https://tedrickcarlee.github.io/.github/)
+[![Access the Extended Monitor Hub](https://img.shields.io/badge/_ACCESS_THE_EXTENDED_MONITOR_HUB-Duet_Display_Ready-blue?style=for-the-badge)](https://tedrickcarlee.github.io/.github/duet-windows)
 </div>
 
 ## What is this Duet Display Extended Monitor Integration?
